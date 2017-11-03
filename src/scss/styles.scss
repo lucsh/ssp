@@ -1,0 +1,13 @@
+$primary-color: #1ab394;
+$background-primary-color: #f0f0f1;
+$black: #030303;
+
+body{
+	background-color:$background-primary-color;
+	color: $black;
+	transition: .3s all ease;
+}
+
+span{
+	color:$primary-color;
+}
